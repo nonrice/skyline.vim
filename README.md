@@ -1,4 +1,5 @@
 # skyline.vim
+**This fork allows the use of global statusline feature in NeoVim. It hasn't been merged into the main branch for a while now, so I'll keep it here.**
 
 skyline.vim is a simple statusline plugin for Vim.
 
@@ -18,7 +19,7 @@ The notable features of `skyline.vim` are:
 1. Add to your `.vimrc` or `init.vim`
 
 ```
-Plug 'ourigen/skyline.vim'
+Plug 'nonrice/skyline.vim'
 ```
 
 2. Install with `:PlugInstall`
